@@ -1,4 +1,18 @@
- <h1>Snake game</h1> 
- <p>Computer Programming Project KMITL Semester 2/2020 1st Year<p>
- <h1>Presentation video</h1> 
- <p>https://www.youtube.com/watch?v=4sPse-E0YxQ<p>
+# Snake game
+> 06016315 Computer Programming Project KMITL Semester 2/2021 1st Year
+## Presentation video
+> * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
+## Poster
+> * [Poster (download)](https://drive.google.com/uc?export=download&id=1wkT-e7K-fvn7Vo5j8DtxEvxGOONF_GIc)
+> 
+>  ![Poster (download)](poster/poster.jpg)
+---
+สมาชิก
+---
+
+| รหัสนักศึกษา | ชื่อ - นามสกุล |
+| :-------- | :-------- |
+|   64070156   |   นายธนดล	พันเลิศรักษ์   |
+|   64070163   |   นายธีระภพ	เพ็ชรนิล   |
+|   64070234   |   นางสาวศรุตา	จรูญกีรติโรจน์   |
+|   64070245   |   นางสาวสิริกร 	ณ อุบล   |
