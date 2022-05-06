@@ -2,9 +2,9 @@
 > This project is part of 06016315 Computer Programming, KMITL Semester 2/2021 1st Year
 ## Abstract:page_facing_up:
 > * [Abstract](https://docs.google.com/document/d/1N7dn1_y60XxvFgWz14g83KMglwUcxoq071dXkQOUyfU/edit)
-## Presentation video:film_flames:
+## Presentation video🎞️
 > * [Youtube](https://youtu.be/4sPse-E0YxQ)
-## Poster:frame_photo:
+## Poster🖼️
 >
 ---
 # Members:technologist::woman_technologist::man_technologist::woman_technologist:
