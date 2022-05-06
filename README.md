@@ -7,7 +7,7 @@
 ## Poster🖼️
 >
 ---
-# Members:technologist::woman_technologist::man_technologist::woman_technologist:
+# Members👩‍💻 👨‍💻:woman_technologist::man_technologist::woman_technologist:
 ---
 
 | Student ID | Full name | ชื่อ - นามสกุล |
