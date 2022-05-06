@@ -1,13 +1,13 @@
 # Snake game:snake:
 > This project is part of 06016315 Computer Programming, KMITL Semester 2/2021 1st Year
-## Abstract
-> * [Abstract]https://docs.google.com/document/d/1N7dn1_y60XxvFgWz14g83KMglwUcxoq071dXkQOUyfU/edit
-## Presentation video
+## Abstract:page_facing_up:
+> * [Abstract](https://docs.google.com/document/d/1N7dn1_y60XxvFgWz14g83KMglwUcxoq071dXkQOUyfU/edit)
+## Presentation video:film_flames:
 > * [Youtube](https://youtu.be/4sPse-E0YxQ)
-## Poster
+## Poster:frame_photo:
 >
 ---
-# Members
+# Members:technologist::woman_technologist::man_technologist::woman_technologist:
 ---
 
 | Student ID | Full name | ชื่อ - นามสกุล |
