@@ -9,7 +9,7 @@
 ## Presentation video🎞️
 > * [Youtube](https://youtu.be/4sPse-E0YxQ)
 ## Poster🖼️
-> <img width="1683" alt="ComOR Poster @72dpi (Page 1)" src="https://user-images.githubusercontent.com/88507617/167927123-937a57e2-e47d-43e1-86e7-80f84b27ee99.png">
+<img width="1683" alt="ComOR Poster @72dpi (Page 1)" src="https://user-images.githubusercontent.com/88507617/167927123-937a57e2-e47d-43e1-86e7-80f84b27ee99.png">
 ## Special thanks:two_hearts:
 > * [Source code](http://www.mediafire.com/file/fvn30jrh6ateb2v/Snake.c/file)
 ---
