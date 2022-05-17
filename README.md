@@ -1,7 +1,7 @@
 # Snake game:snake:
 > This project is part of 06016315 Computer Programming, KMITL Semester 2/2021 1st Year
 ## Objective:mag:
-> * To develop our progamming skills🔥
+> * To develop our programming skills🔥
 > * To apply knowledge of C language into good use:sparkles:
 > * To learn about C++ language:sunglasses:
 ## Abstract:page_facing_up:
